@@ -16,7 +16,7 @@ Papers about online EM
 * Olivier Capp´ e. Online expectation-maximisation. Mix-tures: Estimation and Applications, pages 153, 2011.
 
 Paper about EM-DeSTIN
-
+-------------------
 * Min JIANG, Yulong DING , Ben Goertzel, Zhongqiang HUANG and Fei CHAO, Improving Machine Vision via Incorporating Expectation-Maximization into Deep Spatio-Temporal Learning, submitted to IJCNN'2014.
 
 Building
