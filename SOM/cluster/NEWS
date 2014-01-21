@@ -1,0 +1,4 @@
+2010.12.27
+Modified Pycluster/Bio.Cluster to be able to compile and run with Python 3.
+Changed the number of passes in perl/t/14_kmedoids to avoid spurious test
+failures. Some minor updates in the documentation.

@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zhangzinan/destin_ted_temp/Destin/EMDestin/src/em.cpp
+em.h
+/home/zhangzinan/destin_ted_temp/Destin/EMDestin/src/em.h
+memory.h
+/home/zhangzinan/destin_ted_temp/Destin/EMDestin/src/memory.h
+stdlib.h
+/home/zhangzinan/destin_ted_temp/Destin/EMDestin/src/stdlib.h
+stdio.h
+/home/zhangzinan/destin_ted_temp/Destin/EMDestin/src/stdio.h
+math.h
+/home/zhangzinan/destin_ted_temp/Destin/EMDestin/src/math.h
+time.h
+/home/zhangzinan/destin_ted_temp/Destin/EMDestin/src/time.h
+armadillo
+-
+iostream
+-
+fstream
+-
+
+EMDestin/include/em.h
+armadillo
+-
+iostream
+-
+

@@ -1,0 +1,4 @@
+/home/zhangzinan/destin_ted_temp/Destin/DavisDestin/CMakeFiles/destin.dir
+/home/zhangzinan/destin_ted_temp/Destin/DavisDestin/CMakeFiles/destinalt.dir
+/home/zhangzinan/destin_ted_temp/Destin/DavisDestin/CMakeFiles/destinalt_test.dir
+/home/zhangzinan/destin_ted_temp/Destin/DavisDestin/CMakeFiles/test.dir

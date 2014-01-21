@@ -1,0 +1,11 @@
+/home/zhangzinan/destin_ted_temp/Destin/Common/CMakeFiles/common.dir
+/home/zhangzinan/destin_ted_temp/Destin/EMDestin/CMakeFiles/destin.dir
+/home/zhangzinan/destin_ted_temp/Destin/EMDestin/CMakeFiles/destinalt.dir
+/home/zhangzinan/destin_ted_temp/Destin/EMDestin/CMakeFiles/destinalt_test.dir
+/home/zhangzinan/destin_ted_temp/Destin/SOM/CMakeFiles/som.dir
+/home/zhangzinan/destin_ted_temp/Destin/EMdestin_test/CMakeFiles/stereovision.dir
+/home/zhangzinan/destin_ted_temp/Destin/EMDestin/CMakeFiles/test.dir
+/home/zhangzinan/destin_ted_temp/Destin/EMdestin_test/CMakeFiles/test2.dir
+/home/zhangzinan/destin_ted_temp/Destin/Common/CMakeFiles/testCifarSource.dir
+/home/zhangzinan/destin_ted_temp/Destin/Common/CMakeFiles/testDestinNetworkAlt.dir
+/home/zhangzinan/destin_ted_temp/Destin/SOM/CMakeFiles/testSOM.dir

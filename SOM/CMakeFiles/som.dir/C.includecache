@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zhangzinan/destin_ted_temp/Destin/SOM/cluster/src/cluster.c
+omp.h
+-
+time.h
+-
+stdlib.h
+-
+math.h
+-
+float.h
+-
+limits.h
+-
+string.h
+-
+cluster.h
+/home/zhangzinan/destin_ted_temp/Destin/SOM/cluster/src/cluster.h
+windows.h
+-
+
+/home/zhangzinan/destin_ted_temp/Destin/SOM/cluster/src/cluster.h
+windows.h
+-
+

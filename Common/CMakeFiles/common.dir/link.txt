@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O3 -DNDEBUG   -shared -Wl,-soname,libcommon.so -o libcommon.so CMakeFiles/common.dir/DestinNetworkAlt.cpp.o CMakeFiles/common.dir/VideoSource.cpp.o -larmadillo -lgfortran 
