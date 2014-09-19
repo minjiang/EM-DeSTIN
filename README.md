@@ -17,7 +17,31 @@ Papers about online EM
 
 Paper about EM-DeSTIN
 -------------------
-* Min JIANG, Yulong DING , Ben Goertzel, Zhongqiang HUANG and Fei CHAO, Improving Machine Vision via Incorporating Expectation-Maximization into Deep Spatio-Temporal Learning, submitted to IJCNN'2014.
+Please cite this paper as:
+
+* Min Jiang, Yulong Ding, Ben Goertzel, Zhongqiang Huang, Changle Zhou, Fei Chao: Improving machine vision via incorporating expectation-maximization into Deep Spatio-Temporal learning. IJCNN 2014: 1804-1811
+
+@inproceedings{DBLP:conf/ijcnn/JiangDGHZC14,
+  author    = {Min Jiang and
+               Yulong Ding and
+               Ben Goertzel and
+               Zhongqiang Huang and
+               Changle Zhou and
+               Fei Chao},
+  title     = {Improving machine vision via incorporating expectation-maximization
+               into Deep Spatio-Temporal learning},
+  booktitle = {2014 International Joint Conference on Neural Networks, {IJCNN} 2014,
+               Beijing, China, July 6-11, 2014},
+  year      = {2014},
+  pages     = {1804--1811},
+  crossref  = {DBLP:conf/ijcnn/2014},
+  url       = {http://dx.doi.org/10.1109/IJCNN.2014.6889723}, Add to Citavi project by DOI
+  doi       = {10.1109/IJCNN.2014.6889723},
+  timestamp = {Fri, 19 Sep 2014 19:12:06 +0200},
+  biburl    = {http://dblp.uni-trier.de/rec/bib/conf/ijcnn/JiangDGHZC14},
+  bibsource = {dblp computer science bibliography, http://dblp.org}
+}
+
 
 Building
 --------
